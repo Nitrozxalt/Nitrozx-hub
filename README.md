@@ -11365,6 +11365,6 @@ OrionLib:Init()
 OrionLib:MakeNotification({
     Name = "Nitrozx Hub",
     Content = "Loading Config Complete!!",
-    Image = "rbxassetid://119980140458596",
+    Image = "[rbxassetid://119980140458596](https://media.discordapp.net/attachments/1308188800794497084/1308619433228370041/Leonardo_Phoenix_Design_a_logo_featuring_the_thematic_purple_c_1.jpg?ex=67433791&is=6741e611&hm=c749e80027165e9ee538d176eecbd267481435c82cb13b1dff51dce9f1f7a18b&=&format=webp&width=676&height=676)",
     Time = 5
 })
